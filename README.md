@@ -86,6 +86,9 @@ https://github.com/qbcore-framework/qb-menu
         ['shop'] = 'police', 
     },
 
+**SCREENSHOTS USING GABZ MRPD AND PILLBOX DLC**
+![image](https://github.com/LamaarK/qb-vehicleshop/assets/65554339/018da199-09a3-4f99-b00a-6e6d49f71f94)
+![image](https://github.com/LamaarK/qb-vehicleshop/assets/65554339/a1088351-5310-4fc2-89df-7d209b2e712f)
 
 
 **FUTURE UPDATES**
