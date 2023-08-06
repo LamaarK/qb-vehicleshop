@@ -4,10 +4,12 @@ Something I edited for my server to give the Emergency and Services the ability
 to purchase their vehicles for MDT purpose (you can edit the pricing from $0 - [whatever]).
 
 **HOW TO HAVE IT WORK PROPERLY**
+
+
 DEPENDENCIES : https://github.com/qbcore-framework/qb-core
-							 https://github.com/qbcore-framework/qb-target
-							 https://github.com/LamaarK/qb-input) (My own version)
-							 https://github.com/qbcore-framework/qb-menu
+https://github.com/qbcore-framework/qb-target
+https://github.com/LamaarK/qb-input) (My own version)
+https://github.com/qbcore-framework/qb-menu
 
 ```Copy & replace file by deleting old qb-vehicleshop. Inside your qb-core/shared/vehicles ass the following```
 
