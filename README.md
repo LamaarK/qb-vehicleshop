@@ -11,7 +11,7 @@ DEPENDENCIES : https://github.com/qbcore-framework/qb-core
 
 ```Copy & replace file by deleting old qb-vehicleshop. Inside your qb-core/shared/vehicles ass the following```
 
-	  ```--- Ambulance
+     --- Ambulance
     ['emsnspeedo'] = { -- vehicle SPAWN name
         ['name'] = 'Ambulance', 
         ['brand'] = 'emsnspeedo', -- vehicle SPAWN name
@@ -82,7 +82,7 @@ DEPENDENCIES : https://github.com/qbcore-framework/qb-core
         ['categoryLabel'] = 'Police', 
         ['hash'] = `police4`, -- vehicle SPAWN name
         ['shop'] = 'police', 
-    },```
+    },
 
 
 
